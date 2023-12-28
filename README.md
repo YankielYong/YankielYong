@@ -1,5 +1,5 @@
 <h1 align="center">Yankiel Yong Martínez</h1>
-<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&color=FFFF00&center=true&vCenter=true&width=500&lines=Facultad de Ingeniería Informática 🐳💛"/></div>
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Roboto&duration=1&repeat=false&weight=900&color=FFFF00&center=true&vCenter=true&width=500&lines=Facultad de Ingeniería Informática 🐳💛"/></div>
 
 ## Información ❗
 Estudiante de 3er año de la Facultad de Ingenieria Informática en la Universidad Tecnológica de La Habana "José Antonio Echeverría" CUJAE
