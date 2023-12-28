@@ -29,9 +29,9 @@ Estudiante de 3er año de la Facultad de Ingenieria Informática en la Universid
  </div>
 
  ## Estadísticas 📊
- <p align="center"><img width="47%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=EduardoProfe666&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true"/>
-<img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=EduardoProfe666&theme=tokyonight&hide_border=false"/></p>
-<p align="center"><img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YankielYong&theme=tokyonight&hide_border=false" /></p>
+ <p align="center"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=YankielYong&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YankielYong&theme=tokyonight&hide_border=false"/></p>
+<p align="center"><img width="97%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YankielYong&theme=tokyonight&hide_border=false" /></p>
 <p align="center"><img width="60%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YankielYong&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/></p>
 
  ## Trofeos 🏆
