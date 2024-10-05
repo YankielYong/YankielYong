@@ -2,7 +2,7 @@
 <div align="center"><img src="https://readme-typing-svg.demolab.com?font=Roboto&duration=1&repeat=false&weight=900&color=FFFF00&center=true&vCenter=true&width=500&lines=Facultad de Ingeniería Informática 🐳💛"/></div>
 
 ## Información ❗
-Estudiante de 3er año de la Facultad de Ingenieria Informática en la Universidad Tecnológica de La Habana "José Antonio Echeverría" CUJAE
+Estudiante de 4to año de la Facultad de Ingenieria Informática en la Universidad Tecnológica de La Habana "José Antonio Echeverría" CUJAE
 
 ## Contacto 📱
 <a href="https://wa.me/5352007743" target="blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2015/04/whatsapp-logo-png.png" height="40" width="40" /></a>
